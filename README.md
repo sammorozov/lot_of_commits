@@ -1,5 +1,5 @@
 the script:
-
+``` python3
 '''
 echo "# lot_of_commits" >> README.md
 git init
@@ -51,3 +51,5 @@ for i in range(10000):
         print(result3) 
     except:
         print('err3')
+
+```
